@@ -1,0 +1,7 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_optimization\Test_optimization\bin\Debug\Test_optimization.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_optimization\Test_optimization\bin\Debug\Test_optimization.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_optimization\Test_optimization\bin\Debug\Test_optimization.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_optimization\Test_optimization\obj\Debug\Test_optimization.csprojAssemblyReference.cache
+C:\Users\SST20\Desktop\c#testcodes\Test_optimization\Test_optimization\obj\Debug\Test_optimization.csproj.CoreCompileInputs.cache
+C:\Users\SST20\Desktop\c#testcodes\Test_optimization\Test_optimization\obj\Debug\Test_optimization.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_optimization\Test_optimization\obj\Debug\Test_optimization.pdb

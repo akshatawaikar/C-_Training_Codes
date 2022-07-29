@@ -1,0 +1,6 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_Indexers\Test_Indexers\bin\Debug\Test_Indexers.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_Indexers\Test_Indexers\bin\Debug\Test_Indexers.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_Indexers\Test_Indexers\bin\Debug\Test_Indexers.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_Indexers\Test_Indexers\obj\Debug\Test_Indexers.csprojResolveAssemblyReference.cache
+C:\Users\SST20\Desktop\c#testcodes\Test_Indexers\Test_Indexers\obj\Debug\Test_Indexers.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_Indexers\Test_Indexers\obj\Debug\Test_Indexers.pdb

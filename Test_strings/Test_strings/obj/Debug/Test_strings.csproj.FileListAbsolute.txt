@@ -1,0 +1,6 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_strings\Test_strings\bin\Debug\Test_strings.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_strings\Test_strings\bin\Debug\Test_strings.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_strings\Test_strings\bin\Debug\Test_strings.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_strings\Test_strings\obj\Debug\Test_strings.csprojResolveAssemblyReference.cache
+C:\Users\SST20\Desktop\c#testcodes\Test_strings\Test_strings\obj\Debug\Test_strings.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_strings\Test_strings\obj\Debug\Test_strings.pdb

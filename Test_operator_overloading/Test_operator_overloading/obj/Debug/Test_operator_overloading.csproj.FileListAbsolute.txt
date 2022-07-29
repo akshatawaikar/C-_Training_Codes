@@ -1,0 +1,6 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_operator_overloading\Test_operator_overloading\bin\Debug\Test_operator_overloading.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_operator_overloading\Test_operator_overloading\obj\Debug\Test_operator_overloading.csprojResolveAssemblyReference.cache
+C:\Users\SST20\Desktop\c#testcodes\Test_operator_overloading\Test_operator_overloading\bin\Debug\Test_operator_overloading.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_operator_overloading\Test_operator_overloading\bin\Debug\Test_operator_overloading.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_operator_overloading\Test_operator_overloading\obj\Debug\Test_operator_overloading.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_operator_overloading\Test_operator_overloading\obj\Debug\Test_operator_overloading.pdb

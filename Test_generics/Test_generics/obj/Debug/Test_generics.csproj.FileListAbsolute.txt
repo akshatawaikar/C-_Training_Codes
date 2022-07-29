@@ -1,0 +1,6 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_generics\Test_generics\bin\Debug\Test_generics.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_generics\Test_generics\bin\Debug\Test_generics.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_generics\Test_generics\bin\Debug\Test_generics.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_generics\Test_generics\obj\Debug\Test_generics.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_generics\Test_generics\obj\Debug\Test_generics.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_generics\Test_generics\obj\Debug\Test_generics.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\SST20\Desktop\c#testcodes\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\SST20\Desktop\c#testcodes\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\SST20\Desktop\c#testcodes\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\SST20\Desktop\c#testcodes\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

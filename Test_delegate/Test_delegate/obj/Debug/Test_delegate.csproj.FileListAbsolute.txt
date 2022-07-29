@@ -1,0 +1,5 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_delegate\Test_delegate\bin\Debug\Test_delegate.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_delegate\Test_delegate\bin\Debug\Test_delegate.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_delegate\Test_delegate\bin\Debug\Test_delegate.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_delegate\Test_delegate\obj\Debug\Test_delegate.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_delegate\Test_delegate\obj\Debug\Test_delegate.pdb

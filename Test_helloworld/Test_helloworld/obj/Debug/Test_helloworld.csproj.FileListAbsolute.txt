@@ -1,0 +1,6 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_helloworld\Test_helloworld\bin\Debug\Test_helloworld.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_helloworld\Test_helloworld\bin\Debug\Test_helloworld.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_helloworld\Test_helloworld\bin\Debug\Test_helloworld.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_helloworld\Test_helloworld\obj\Debug\Test_helloworld.csprojResolveAssemblyReference.cache
+C:\Users\SST20\Desktop\c#testcodes\Test_helloworld\Test_helloworld\obj\Debug\Test_helloworld.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_helloworld\Test_helloworld\obj\Debug\Test_helloworld.pdb

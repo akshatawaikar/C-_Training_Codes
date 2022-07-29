@@ -1,0 +1,8 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_Acess_modifier\Test_access_modifier_client\bin\Debug\Test_access_modifier_client.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_Acess_modifier\Test_access_modifier_client\obj\Debug\Test_access_modifier_client.csprojResolveAssemblyReference.cache
+C:\Users\SST20\Desktop\c#testcodes\Test_Acess_modifier\Test_access_modifier_client\bin\Debug\Test_access_modifier_client.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_Acess_modifier\Test_access_modifier_client\bin\Debug\Test_access_modifier_client.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_Acess_modifier\Test_access_modifier_client\bin\Debug\Test_Acess_modifier.dll
+C:\Users\SST20\Desktop\c#testcodes\Test_Acess_modifier\Test_access_modifier_client\bin\Debug\Test_Acess_modifier.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_Acess_modifier\Test_access_modifier_client\obj\Debug\Test_access_modifier_client.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_Acess_modifier\Test_access_modifier_client\obj\Debug\Test_access_modifier_client.pdb

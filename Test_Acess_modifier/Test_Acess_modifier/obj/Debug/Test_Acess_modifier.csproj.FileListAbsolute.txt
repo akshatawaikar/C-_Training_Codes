@@ -1,0 +1,4 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_Acess_modifier\Test_Acess_modifier\bin\Debug\Test_Acess_modifier.dll
+C:\Users\SST20\Desktop\c#testcodes\Test_Acess_modifier\Test_Acess_modifier\bin\Debug\Test_Acess_modifier.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_Acess_modifier\Test_Acess_modifier\obj\Debug\Test_Acess_modifier.dll
+C:\Users\SST20\Desktop\c#testcodes\Test_Acess_modifier\Test_Acess_modifier\obj\Debug\Test_Acess_modifier.pdb

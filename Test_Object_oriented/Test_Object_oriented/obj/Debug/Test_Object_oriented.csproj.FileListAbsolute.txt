@@ -1,0 +1,6 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_Object_oriented\Test_Object_oriented\bin\Debug\Test_Object_oriented.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_Object_oriented\Test_Object_oriented\bin\Debug\Test_Object_oriented.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_Object_oriented\Test_Object_oriented\bin\Debug\Test_Object_oriented.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_Object_oriented\Test_Object_oriented\obj\Debug\Test_Object_oriented.csprojResolveAssemblyReference.cache
+C:\Users\SST20\Desktop\c#testcodes\Test_Object_oriented\Test_Object_oriented\obj\Debug\Test_Object_oriented.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_Object_oriented\Test_Object_oriented\obj\Debug\Test_Object_oriented.pdb

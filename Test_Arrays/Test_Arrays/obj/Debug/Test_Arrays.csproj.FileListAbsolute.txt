@@ -1,0 +1,6 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_Arrays\Test_Arrays\bin\Debug\Test_Arrays.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_Arrays\Test_Arrays\bin\Debug\Test_Arrays.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_Arrays\Test_Arrays\bin\Debug\Test_Arrays.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_Arrays\Test_Arrays\obj\Debug\Test_Arrays.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_Arrays\Test_Arrays\obj\Debug\Test_Arrays.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_Arrays\Test_Arrays\obj\Debug\Test_Arrays.csprojResolveAssemblyReference.cache

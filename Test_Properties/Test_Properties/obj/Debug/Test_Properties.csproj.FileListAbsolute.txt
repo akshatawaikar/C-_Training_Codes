@@ -1,0 +1,6 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_Properties\Test_Properties\bin\Debug\Test_Properties.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_Properties\Test_Properties\bin\Debug\Test_Properties.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_Properties\Test_Properties\bin\Debug\Test_Properties.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_Properties\Test_Properties\obj\Debug\Test_Properties.csprojResolveAssemblyReference.cache
+C:\Users\SST20\Desktop\c#testcodes\Test_Properties\Test_Properties\obj\Debug\Test_Properties.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_Properties\Test_Properties\obj\Debug\Test_Properties.pdb
