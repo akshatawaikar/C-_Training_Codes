@@ -1,0 +1,6 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_delegate_sort\Test_delegate_sort\bin\Debug\Test_delegate_sort.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_delegate_sort\Test_delegate_sort\bin\Debug\Test_delegate_sort.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_delegate_sort\Test_delegate_sort\bin\Debug\Test_delegate_sort.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_delegate_sort\Test_delegate_sort\obj\Debug\Test_delegate_sort.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_delegate_sort\Test_delegate_sort\obj\Debug\Test_delegate_sort.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_delegate_sort\Test_delegate_sort\obj\Debug\Test_delegate_sort.csprojResolveAssemblyReference.cache

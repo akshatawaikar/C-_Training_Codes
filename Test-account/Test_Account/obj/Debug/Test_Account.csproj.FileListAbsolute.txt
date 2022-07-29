@@ -1,0 +1,4 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_Account\Test_Account\bin\Debug\Test_Account.dll
+C:\Users\SST20\Desktop\c#testcodes\Test_Account\Test_Account\bin\Debug\Test_Account.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_Account\Test_Account\obj\Debug\Test_Account.dll
+C:\Users\SST20\Desktop\c#testcodes\Test_Account\Test_Account\obj\Debug\Test_Account.pdb

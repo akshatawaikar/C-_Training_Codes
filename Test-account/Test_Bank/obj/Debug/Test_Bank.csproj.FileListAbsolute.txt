@@ -1,0 +1,8 @@
+C:\Users\SST20\Desktop\c#testcodes\Test_Account\Test_Bank\bin\Debug\Test_Bank.exe.config
+C:\Users\SST20\Desktop\c#testcodes\Test_Account\Test_Bank\bin\Debug\Test_Bank.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_Account\Test_Bank\bin\Debug\Test_Bank.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_Account\Test_Bank\bin\Debug\Test_Account.dll
+C:\Users\SST20\Desktop\c#testcodes\Test_Account\Test_Bank\bin\Debug\Test_Account.pdb
+C:\Users\SST20\Desktop\c#testcodes\Test_Account\Test_Bank\obj\Debug\Test_Bank.csprojResolveAssemblyReference.cache
+C:\Users\SST20\Desktop\c#testcodes\Test_Account\Test_Bank\obj\Debug\Test_Bank.exe
+C:\Users\SST20\Desktop\c#testcodes\Test_Account\Test_Bank\obj\Debug\Test_Bank.pdb
